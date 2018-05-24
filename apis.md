@@ -6,8 +6,8 @@ image: http://kinlane-productions.s3.amazonaws.com/screen-capture-api/2946-api-f
 x-kinRank: "8"
 x-alexaRank: "2924665"
 tags: API Fortress
-created: "2018-05-22"
-modified: "2018-05-22"
+created: "2018-05-24"
+modified: "2018-05-24"
 url: https://raw.githubusercontent.com/streamdata-gallery-organizations/api-fortress/master/_listings/api-fortress/apis.md
 specificationVersion: "0.14"
 apis: []
